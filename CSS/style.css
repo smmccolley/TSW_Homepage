@@ -1,0 +1,63 @@
+/*Navigation*/
+.primaryNav {
+    background-image:url(../images/Buckhead\ Redefined_003.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position:bottom;
+}
+.logo {
+    width: 5%;
+    padding: 3%;
+    margin-top: 3%;
+    margin-left: 3%;
+}
+.nav {
+    vertical-align:top;
+    display:inline-block;
+    height: 4.2%;
+    width: 100%;
+    top: 17%;
+}
+.navButton {
+    display: inline-block;
+    width:13%;
+    height: 4.2%;
+    text-align: center;
+    margin-top: 12%;
+    font-size: 30px;
+    font-weight: 500;
+    margin-right: 3%;
+
+}
+.heroImg {
+    height:1077;
+    width:1920px;
+    padding:5px;
+    vertical-align: top;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+
+/*Studios & Blog*/
+.TSWideas {
+    float: left;
+    text-align: left;
+    font-weight: 500;
+    font-size: 45px;
+}
+.PLG {
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+}
+.ARCH {
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+}
+.LA {
+    display: inline-block;
+    height: 30%;
+    width: 30%;
+}
