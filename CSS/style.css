@@ -1,7 +1,7 @@
 /*Navigation*/
 
 .primaryNav {
-    background-image: url(../images/Buckhead\ Redefined_003.JPG);
+    background-image: url(../images/buckhead_redefined.JPG);
     background-repeat: no-repeat;
     background-size: cover;
     height: 800px;
@@ -86,7 +86,6 @@
 .Recess {
     display: inline-block;
     width: 85%;
-    float: right;
     margin-left: 15%;
 }
 .BlogPost {
